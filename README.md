@@ -1,3 +1,4 @@
+
 # Spring Boot Microservice API
 
 ## Description
@@ -20,3 +21,4 @@ Or test it directly [http://localhost:8080/rides](http://localhost:8080/rides)
 
 ## QA
 To scale the application easier i would make use of the Spring Cloud: Spring Config and service discovery, Docker, Redis for caching.
+
